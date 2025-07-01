@@ -56,5 +56,5 @@ Each mode applies a different geometric strategy:
 Developed by **Hanie**  
 Version: `2023.06.27`
 
-## 📂 Repository Structure
+
 
